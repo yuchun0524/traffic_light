@@ -1,0 +1,98 @@
+m255
+K3
+z0
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\examples
+T_opt
+VYogdUTgX^iMg6JOG=6n0P2
+04 16 4 work traffic_light_tb fast 0
+=1-507b9d6c0a7d-5c81de0c-138-1b08
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+R0
+vcounter
+Z1 !s110 1552121152
+!i10b 1
+!s100 6YSIa4f2dW8EiZhYPCmFU3
+I^6YRDze<hI2B1X]Z1gT2`1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/computer organization/hw1/B34054082/src
+w1552121141
+8D:/computer organization/hw1/B34054082/src/counter.v
+FD:/computer organization/hw1/B34054082/src/counter.v
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1552121152.000000
+!s107 D:/computer organization/hw1/B34054082/src/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/computer organization/hw1/B34054082/src/counter.v|
+!s101 -O0
+!i113 1
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtraffic_control
+R1
+!i10b 1
+!s100 ]ghcdKOMi4VInoYf0lkoM0
+Ijzhzo9Z1NYnCU?ZBR8S@V3
+R2
+R3
+w1552121136
+8D:/computer organization/hw1/B34054082/src/traffic_control.v
+FD:/computer organization/hw1/B34054082/src/traffic_control.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/computer organization/hw1/B34054082/src/traffic_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/computer organization/hw1/B34054082/src/traffic_control.v|
+!s101 -O0
+!i113 1
+R6
+vtraffic_light
+R1
+!i10b 1
+!s100 c0n;>FD[ejTR5UUSi>N^a0
+I7Gd2za4lDhAhL^4d2L8?R3
+R2
+R3
+w1552121147
+8D:/computer organization/hw1/B34054082/src/traffic_light.v
+FD:/computer organization/hw1/B34054082/src/traffic_light.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/computer organization/hw1/B34054082/src/traffic_light.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/computer organization/hw1/B34054082/src/traffic_light.v|
+!s101 -O0
+!i113 1
+R6
+vtraffic_light_tb
+R1
+!i10b 1
+!s100 ^R[dF=gmRoZ;bnf7H_4`T0
+IfmVc?mHJHaNO4`JCck8]23
+R2
+R3
+w1548143342
+8D:/computer organization/hw1/B34054082/src/traffic_light_tb.v
+FD:/computer organization/hw1/B34054082/src/traffic_light_tb.v
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/computer organization/hw1/B34054082/src/traffic_light_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/computer organization/hw1/B34054082/src/traffic_light_tb.v|
+!s101 -O0
+!i113 1
+R6
